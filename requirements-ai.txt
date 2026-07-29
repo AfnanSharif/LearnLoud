@@ -1,0 +1,8 @@
+-r requirements.txt
+google-genai>=1.0,<2
+gTTS>=2.5,<3
+pyttsx3>=2.98,<3
+tortoise-tts>=3.0,<4
+torchaudio>=2.4,<3
+coqui-tts>=0.25,<1
+pydub>=0.25,<1
